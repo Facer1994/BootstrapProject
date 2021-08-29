@@ -1,0 +1,47 @@
+#top-header
+{
+ background-color: ghostwhite;
+ border-bottom:1px solid silver;
+}
+#top-header a{
+	color:#2c3e50;
+	font-weight: 600;
+	font-size: 15;
+}
+.container-fluid{
+padding-left:0px;
+padding-right:0px;
+}
+nav ul li a{
+font-weight: 600;
+font-size: 15;
+}
+.full-footer{
+	background-color:#2c3e50;
+	color:white;
+
+}
+.top-footer a{
+	color:white;
+	font-weight: 600;
+}
+.top-footer h3{
+	color:white;
+	
+}
+.Top-hero{
+background-color:#ecf0f1;
+padding-right:0px;
+}
+.Top-hero img{
+width:540px;
+height:560px;
+
+}
+.img-fluid{
+	width:200px;
+}
+.breadcrumbs-section
+{
+	background-color:#e9ecef;
+}
